@@ -52,10 +52,7 @@ Estou sempre aprendendo novas tecnologias e buscando projetos para crescer profi
 
 ### 🚀 Obrigado por visitar meu perfil! Vamos construir algo incrível juntos. 😄
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake gif](https://raw.githubusercontent.com/HenriquePereira777/HenriquePereira777/output/github-contribution-grid-snake.svg)
+
 
 
