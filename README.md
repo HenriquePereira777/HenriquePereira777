@@ -52,5 +52,4 @@ Estou sempre aprendendo novas tecnologias e buscando projetos para crescer profi
 
 ### 🚀 Obrigado por visitar meu perfil! Vamos construir algo incrível juntos. 😄
 
-![snake gif](https://github.com/HenriquePereira777/HenriquePereira777/blob/output/github-contribution-grid-snake.svg)
 
