@@ -25,6 +25,8 @@ Estou sempre aprendendo novas tecnologias e buscando projetos para crescer profi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HenriquePereira777&show_icons=true&theme=radical" alt="Henrique GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=HenriquePereira777&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePereira777&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
