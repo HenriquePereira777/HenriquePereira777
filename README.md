@@ -32,7 +32,7 @@ Atualmente estudo e trabalho com tecnologias modernas para web, buscando evoluir
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35"/>
-<img src="https://www.vectorlogo.zone/logos/insomnia/insomnia-icon.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/insomnia.svg" width="35" title="Insomnia"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/>
 
